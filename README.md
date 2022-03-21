@@ -11,5 +11,6 @@ En este curso vimos:
 * html
 * css
 * creado por daniDaniel
+* ejemplo linux
 
 El freddy es cule **chistoso**.
