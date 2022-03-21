@@ -10,5 +10,6 @@ En este curso vimos:
 * git
 * html
 * css
+* creado por daniDaniel
 
 El freddy es cule **chistoso**.
