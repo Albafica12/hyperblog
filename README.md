@@ -1,4 +1,4 @@
-# hyperblog  :tw-1f314: :tw-1f313:
+# hyperblog  :heart:
 Bienvenido invocador, esto es [League of legends](http://https://www.leagueoflegends.com/es-mx/ "League of legends").
 Un blog increíble para el curso de git y github
 
